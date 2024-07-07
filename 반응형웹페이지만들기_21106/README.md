@@ -38,7 +38,7 @@
 ```
 다양한 화면 크기에 맞춰 레이아웃을 조정하여 모바일 친화적인 웹 페이지를 만듭니다. 이 코드는 작은 화면에서 각 요소가 잘 보이도록 합니다.
 
-![gif(3)](https://github.com/junhee23314/web/blob/main/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A7%8C%EB%93%A4%EA%B8%B0_21106/gif(3).gif)
+![gif(2)](https://github.com/junhee23314/web/blob/main/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A7%8C%EB%93%A4%EA%B8%B0_21106/gif(2).gif)
 - **max-width**: 768px는 화면 너비가 768픽셀 이하일 때 적용됨을 의미합니다.
 - `.text-box`, `.box`, `.box2`, `.box3`, `.box4`, `.box5` 요소들의 너비를 95%로 설정하고, 패딩을 15px로 줄였습니다.
 - `.nav ul`의 방향을 수평에서 수직으로 바꾸었습니다.
@@ -95,7 +95,7 @@
 ```
 드롭다운 메뉴는 인터랙티브 요소로서 중요한 역할을 합니다.
 
-![gif(4)](https://github.com/junhee23314/web/blob/main/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A7%8C%EB%93%A4%EA%B8%B0_21106/gif(4).gif)
+![gif(3)](https://github.com/junhee23314/web/blob/main/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A7%8C%EB%93%A4%EA%B8%B0_21106/gif(3).gif)
 - **드롭다운 구조**: div 태그를 사용하여 드롭다운 메뉴를 구성합니다.
 - **드롭다운 내용**: .dropdown-content 클래스 안에 표시될 내용을 정의합니다.
 - **호버 효과**: CSS에서 display: none으로 숨겨둔 내용을 hover 상태에서 보이게 설정합니다.
