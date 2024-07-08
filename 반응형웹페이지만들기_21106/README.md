@@ -10,7 +10,7 @@
 
 - `html`
 - `css`
-- `Google Fonts (Nanum Myeongjo)`
+
 
 ### 코드 핵심내용
 
