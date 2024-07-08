@@ -124,4 +124,4 @@
 ![이미지1](https://github.com/junhee23314/web/blob/main/%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A7%8C%EB%93%A4%EA%B8%B0_21106/%EC%9D%B4%EB%AF%B8%EC%A7%801.png)
 
 
-비록 많이 부족한 나의 첫 반응형 웹페이지였습니다.🫨
+비록 많이 부족한 나의 첫 반응형 웹페이지🫨
