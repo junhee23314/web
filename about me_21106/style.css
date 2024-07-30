@@ -1,0 +1,12 @@
+* {
+ text-align: justify;
+ 
+}
+
+.box1{
+    border-width: 2px;
+}
+
+.big-line{
+    line-height:2.0;
+}
