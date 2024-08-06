@@ -1,0 +1,106 @@
+
+* {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  }
+ 
+  
+  #a {
+    padding: 100px;
+    margin-top: 150px;
+  }
+
+
+p,a {
+    font-size: 1vw;
+    text-align: center;
+    padding: 0;
+}
+
+h3 {
+    font-size: 2vw;
+    text-align: center;
+}
+
+h1{
+    font-size: 3vw;
+    text-align: center;
+}
+
+
+
+.logo{
+    /* background-image: url(img/로고.png);
+
+    background-color: brown;
+    width: 30vw;
+    height: 10vh;
+    border-radius: 15px;
+          */
+       padding: 5px;
+ 
+
+}
+
+.bg_image{
+    margin: 0;
+    
+    background-image: url(img/about\ me!_배경.png);
+    background-size: cover;
+   
+   
+   
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(118, 97%, 31%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+
+}
+
+.navbar a:hover{
+    border-radius: 5px;
+    background: radial-gradient(hsl(118, 52%, 62%),hsl(118, 62%, 40%), hsl(118, 97%, 31%));
+    /* background: linear-gradient(  hsl(118, 97%, 31%) ,  white 50% ,  hsl(118, 97%, 31%)) ;
+    color: black; */
+}
+
+.navbar li{
+    float: left;
+}
+
+#container{
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #000;
+    
+}
+
+
+.box{
+    transition-property: width, height;
+    transition-duration: 2s, 1s;
+}
+
+.box:hover {
+    width: 200px;
+    height: 120px;
+}
