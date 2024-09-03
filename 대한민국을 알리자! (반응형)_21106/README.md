@@ -122,4 +122,4 @@
 역시 많이 부족하지만 하나하나 알아가며 반응형 웹페이지 만드니까 굉장히 재미있었다.
 
 **대한민국을 알리자!(초안 웹페이지) 바로가기 ⬇️**
-https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!_%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!_%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80
+https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!_21106
