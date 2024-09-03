@@ -301,4 +301,4 @@ __[텍스트 상자 & 정보 상자]__
 이 웹페이지 만들면 서의 결론은 위치를 지정해 주는 게 아직 미숙해서 몹시 어려웠다. 비록 많이 부족한 나의 첫 웹페이지이다.🫨
 
 **대한민국을 알리자!(반응형 웹페이지) 바로가기 ⬇️**
-https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!_%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80
+https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!%20(%EB%B0%98%EC%9D%91%ED%98%95)_21106
